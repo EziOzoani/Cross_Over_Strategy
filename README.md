@@ -11,5 +11,6 @@ We are selling the asset when the short term moving average crosses below the lo
 Taking the German Equity index we:
 
 1.) Define the buying and selling signals
+
 2.) Visualise the Asset Price Plot and the trading signals  results
   
