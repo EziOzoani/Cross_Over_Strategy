@@ -1,11 +1,14 @@
 # Cross_Over_Strategy
 
-Based on the moving Average, which takes the mean over a ceratin time horizon
+### Why 
+During my personal study inyo finance and to understand moving average, I imlted hte crossover stragtey for moving average, which takes the mean over a cartain time horizon.
+
+### What it does
 
 Crossover Strategy :
 We are buy the asset when the short term moving average (20 day), crosses above the long term moving average (50 day).
 
-When looking between the 50 day and 200 day moving average, the above is called the GOLDEN CROSS, for below it's called the DEATH CROSS
+When looking between the 50 day and 200 day moving average, looking above this range is called the GOLDEN CROSS and below it is called the DEATH CROSS.
 
 We are selling the asset when the short term moving average crosses below the long term moving average
 
