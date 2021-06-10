@@ -18,7 +18,7 @@ Taking the German Equity index we:
 
 2.) Visualise the Asset Price Plot and the trading signals  results
 
-![CossOverImage](https://github.com/EziOzoani/Cross_Over_Strategy/tree/master/Images)
+![CossOverImage](https://github.com/EziOzoani/Cross_Over_Strategy/blob/master/Images/CorssOver.png)
 
 
 TO:DO
