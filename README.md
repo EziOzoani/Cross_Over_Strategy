@@ -1,7 +1,7 @@
 # Cross_Over_Strategy
 
 ### Why 
-During my personal study inyo finance and to understand moving average, I imlted hte crossover stragtey for moving average, which takes the mean over a cartain time horizon.
+During my personal study inyo finance and to understand moving average, I implemented the crossover stragtey for moving average, which takes the mean over a cartain time horizon.
 
 ### What it does
 
